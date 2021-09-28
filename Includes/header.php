@@ -28,19 +28,11 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href ="#">About The Site</a>
       </li>
-      
       </ul>
     </div>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">log in</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href ="#">register</a>
-      </li>
-      
-      </ul>
+    <div class="navbar-nav mr-auto">
+      <a class="nav-item nav-link active" href="index.php">LOGIN<span class="dr-only">(current)</span></a>
+      <a class="nav-item nav-link active" href="index.php">REGISTER<span class="dr-only">(current)</span></a>
     </div>
   </div>
 </div>
