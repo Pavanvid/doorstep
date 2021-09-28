@@ -30,10 +30,6 @@
       </li>
       </ul>
     </div>
-    <div class="navbar-nav mr-auto">
-      <a class="nav-item nav-link active" href="index.php">LOGIN<span class="dr-only">(current)</span></a>
-      <a class="nav-item nav-link active" href="index.php">REGISTER<span class="dr-only">(current)</span></a>
-    </div>
   </div>
 </div>
 </nav>
