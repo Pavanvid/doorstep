@@ -10,6 +10,7 @@
         $contact = $_POST['ContactNo'];
         $addres = $_POST['address'];
         $grocery =$_POST['grocery_items'];
+        $groceryArray = explode(" ", $grocery);
         // calling the func  to insert and track if success or not
         $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$grocery,$require);
 
@@ -46,9 +47,12 @@
     </p>
     <h2>Your odered Items are : </h2>
     <p class="card-text">
-        <?php 
+        <?php     
         echo '<hr/>';
-        echo $_POST['grocery_items']; 
+        foreach ($groceryArray as $item){
+            echo $item . "<br>";
+            }
+        echo "<br>";
          ?>
     </p>
 </div>
