@@ -8,9 +8,9 @@
     
     // remote part
     $host = 'sql6.freesqldatabase.com';  //or ip 127.0.0.1
-    $db = 'sql6440618';
-    $user = 'sql6440618';   //as a user
-    $pass = 'Izcr8LmtJa';   //password
+    $db = 'sql6440673';
+    $user = 'sql6440673';   //as a user
+    $pass = 'gFc4tRqMB6';   //password
     $charset = 'utf8mb4'; 
     
     
