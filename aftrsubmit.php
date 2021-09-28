@@ -34,11 +34,12 @@
         <?php  echo $_POST['FullName']; ?>
     </h6>
     <p class="card-text">
-        Email Address : <?php echo $_POST['Email']; ?>
-    </p>
-    <p class="card-text">
         Required From : <?php echo $_POST['required']; ?>
     </p>
+    <p class="card-text">
+        Email Address : <?php echo $_POST['Email']; ?>
+    </p>
+    
     <p class="card-text">
         Mobile Number : <?php echo $_POST['ContactNo']; ?>
     </p>

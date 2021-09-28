@@ -5,17 +5,18 @@
         function __construct($conn){
             $this->db = $conn;
         }
-        public function insertcustomers($fname,$email,$contact,$addres,$grocery,$require){
+        public function insertcustomers($require,$fname,$email,$contact,$addres,$grocery,){
             try{
                 //code
                 $sql = "INSERT INTO door_step(Customer_Name,Email_Address,Contact_Number,Full_Address,Ordered_items) VALUES (:fname,:email,:contact,:addres,:grocery)";
                 $stmt = $this->db->prepare($sql);
                 $stmt->bindparam(':fname',$fname);
+                $stmt->bindparam(':required',$require);
                 $stmt->bindparam(':email',$email);
                 $stmt->bindparam(':contact',$contact);
                 $stmt->bindparam(':addres',$addres);
                 $stmt->bindparam(':grocery',$grocery);
-                $stmt->bindparam(':required',$require);
+               
                 $stmt->execute();
                 return true;
              } catch (PDOException $e){
