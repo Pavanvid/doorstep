@@ -4,13 +4,14 @@
     include 'Database/connection.php';
     if(isset($_POST['submit'])){  //does it exist
         //extract values from the $_POST array
+        $require = $_POST['required'];
         $fname = $_POST['FullName'];
         $email = $_POST['Email'];
         $contact = $_POST['ContactNo'];
         $addres = $_POST['address'];
         $grocery =$_POST['grocery_items'];
         // calling the func  to insert and track if success or not
-        $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$grocery);
+        $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$grocery,$require);
 
         if($issuccess){
             //echo '<h1 class="text-center text-success">You order is done!!Thank You :)';
@@ -33,6 +34,9 @@
     </h6>
     <p class="card-text">
         Email Address : <?php echo $_POST['Email']; ?>
+    </p>
+    <p class="card-text">
+        Required From : <?php echo $_POST['required']; ?>
     </p>
     <p class="card-text">
         Mobile Number : <?php echo $_POST['ContactNo']; ?>
