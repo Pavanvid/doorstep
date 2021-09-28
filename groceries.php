@@ -5,11 +5,14 @@
 ?>
     <h1 class="text-center"> Welcome To The Grocery Shop </h1>
     <form method="post" action="aftrsubmit.php">
-    <select class="form-select" aria-label="Default select example" name="required">
+    </div>
+    <select class="form-select" aria-label="Default select example">
+    <input required type="text" class="form-control" id="exampleInputName" placeholder="Full Name" name="required">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
         <option value="2">UDAYAGIRI</option>
     </select>
+</div>
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter the items with quantity you required" 
