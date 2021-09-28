@@ -31,8 +31,8 @@
       
       </ul>
     </div>
-    <div class="collapse navbar-collapse mr-auto" id="navbarNav">
-      <ul class="navbar-nav">
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">log in</a>
         </li>
