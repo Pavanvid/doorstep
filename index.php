@@ -9,12 +9,7 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
-  <select class="form-select" aria-label="Default select example">
-    <input required type="text" class="form-control" id="exampleInputName" placeholder="Full Name" name="required">
-        <option selected>From where you need items</option>
-        <option value="1">SEETHARAMAPURAM</option>
-        <option value="2">UDAYAGIRI</option>
-    </select>
+  
   <body>
 
   <div class="container">
@@ -41,7 +36,11 @@
 <br>
     <h1 class="text-center">DOOR STEP DELIVERY</h1>
     <br>
-
+    <select class="form-select" aria-label="Default select example">
+        <option selected>From where you need items</option>
+        <option value="1">SEETHARAMAPURAM</option>
+        <option value="2">UDAYAGIRI</option>
+    </select>
     <br>
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
