@@ -1,3 +1,6 @@
+<?php
+  include 'Include/session.php'
+ ?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -25,6 +28,7 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href ="#">About The Site</a>
       </li>
+      
       </ul>
     </div>
   </div>
