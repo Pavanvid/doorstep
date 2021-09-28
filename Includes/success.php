@@ -1,3 +1,3 @@
 <div class="alert alert-success" role="alert">
-  You order is successfully placed....Please wait for sometime.
+  Thank You!! <br> Your order is successfully placed , we will reach you within one hour :)
 </div>

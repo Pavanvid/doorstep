@@ -17,13 +17,13 @@
             include 'Includes/success.php';
         }
         else{
-            echo '<h1 class="text-center text-danger">Your order has not done yet , please check again)';
+            //echo '<h1 class="text-center text-danger">Your order has not done yet , please check again)';
             include 'Includes/errors.php';
         }
     }   
 ?>
 <h1 class="text-center text-success" class="color : green" > Thank You for your Order,we will reach you within 1 hour!! </h1>
-<div class="card" style="width: 40rem;">
+<div class="card" style="width: 20rem;">
     <div class="card-body">
     <h5 class="card-title">
         <?php echo "Groceries And Your Details:" ?>
@@ -51,4 +51,4 @@
 <br>
 <br>
 <br>
-<?php include 'includes/footer.php'; ?>
+<?php include 'Includes/footer.php'; ?>
