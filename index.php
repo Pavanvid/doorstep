@@ -9,14 +9,13 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
-  <body>
-
-    <select class="form-select" aria-label="Default select example">
+  <select class="form-select" aria-label="Default select example">
     <input required type="text" class="form-control" id="exampleInputName" placeholder="Full Name" name="required">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
         <option value="2">UDAYAGIRI</option>
     </select>
+  <body>
 
   <div class="container">
   <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
