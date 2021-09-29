@@ -5,6 +5,7 @@
 ?>
 
 <h1 class="text-center"> Welcome To The Grocery Shop </h1>
+<marquee class='text-danger'>మీ ప్రతి ఆర్డర్ కి 40 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.</marquee>
     <form method="post" action="aftrsubmit.php">  
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
