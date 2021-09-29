@@ -10,8 +10,8 @@
 </div>
 <div class ="container">
 <div class="mb-3" >
-        <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
-        <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter the items with quantity you required" 
+        <label for="exampleFormControlTextarea1" class="form-label">Which Meat Do you want:</label>
+        <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Chicken or Mutton" 
         name="Meat"></textarea>
     </div>
         <div class="form-group">
