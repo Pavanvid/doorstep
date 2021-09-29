@@ -81,6 +81,8 @@
         <label for ="exampleInputpin">PINCODE</label>
         <input required type="PIN NUMBER" class="form-control" id="exampleInputPassword" placeholder="Pin Number">
     </div>
+    <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
+        
     </div>
 
     <select class="form-select" aria-label="Default select example">
