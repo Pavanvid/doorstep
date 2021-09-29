@@ -73,6 +73,15 @@
 
     <h1 class="text-center">DOOR STEP DELIVERY</h1>
     <br>
+
+
+
+    </div>
+        <div class="form-group"></div>
+        <label for ="exampleInputpin">PINCODE</label>
+        <input required type="PIN NUMBER" class="form-control" id="exampleInputPassword" placeholder="Pin Number">
+    </div>
+
     <select class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
