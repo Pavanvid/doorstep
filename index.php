@@ -9,9 +9,10 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
+<br>
 <div class = "container">
 <br>
-<br>
+
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
 </div>
 <body>
