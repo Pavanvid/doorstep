@@ -24,7 +24,7 @@
     </div>
   </div>
 </nav>
-
+<div class="container">
 <br>
 
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
@@ -77,7 +77,7 @@
     </select>
     <br>
     <form method="get" action="groceries.php">
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సామాగ్రి)</button>
+    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
     </form>
 
     
