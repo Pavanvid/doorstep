@@ -8,7 +8,7 @@
     <form method="post" action="aftrsubmit.php">  
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
-        <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter the items with quantity you required" 
+        <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
         name="grocery_items"></textarea>
     </div>
         <div class="form-group">
