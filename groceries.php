@@ -3,10 +3,9 @@
     include 'Includes/header.php';
     include 'Database/connection.php';
 ?>
-<div>
-    <h1 class="text-center"> Welcome To The Grocery Shop </h1>
-    <form method="post" action="aftrsubmit.php">
-</div>  
+
+<h1 class="text-center"> Welcome To The Grocery Shop </h1>
+    <form method="post" action="aftrsubmit.php">  
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter the items with quantity you required" 
@@ -34,7 +33,7 @@
         <small id="Address_validation" class="form-text text-muted">Please mention your pincode</small>
     </div>
     
-        <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
+        <button type="Submit" name="submit" class="btn btn-info" type="button">Submit</button>
         
         </div>
     </form>
