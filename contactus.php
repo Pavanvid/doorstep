@@ -2,8 +2,10 @@
     include 'Includes/header.php'
 ?>
 
+<h1 class="text-center">If your are facing any problems in the means of ordering the items</h1>
+
 <?php
-        echo "If your are facing any problems in the means of ordering the items";
+        
         echo '<hr/>';
         echo '<br/>';
         echo "please class this number:";
