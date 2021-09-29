@@ -8,7 +8,7 @@
         public function insertcustomers($fname,$email,$contact,$addres,$Meats){
             try{
                 //code
-                $sql = "INSERT INTO door_step(Customer_Name,Email_Address,Contact_Number,Full_Address,Ordered_Meat) VALUES (:fname,:email,:contact,:addres,:MEAT)";
+                $sql = "INSERT INTO door_step_meat(Customer_Name,Email_Address,Contact_Number,Full_Address,Ordered_Meat) VALUES (:fname,:email,:contact,:addres,:Meats)";
                 $stmt = $this->db->prepare($sql);
                 $stmt->bindparam(':fname',$fname);
                 $stmt->bindparam(':email',$email);
