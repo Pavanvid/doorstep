@@ -26,7 +26,6 @@
 </nav>
 <div class="container">
 <br>
-
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -76,11 +75,10 @@
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
     </form>
-     <br>
     <br>
-    
     <br>
-<br>
+    <br>
+    <br>
 <br>
 <br>
 <br>
@@ -94,8 +92,7 @@
     echo '<br>';
     echo '<br>';
     echo 'Copyrights' .date('Y') . "Web Master" ;
-    
-    ?>
+?>
 </div>
 </div>
     <!-- Optional JavaScript; choose one of the two! -->
