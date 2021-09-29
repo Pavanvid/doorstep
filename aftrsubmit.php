@@ -11,6 +11,7 @@
         $addres = $_POST['address'];
         $grocery =$_POST['grocery_items'];
         $groceryArray = explode(" ", $grocery);
+
         // calling the func  to insert and track if success or not
         $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$grocery);
 
