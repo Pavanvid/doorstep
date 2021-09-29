@@ -76,9 +76,7 @@
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
     </form>
     <br>
-    <br>
-    <br>
-    <br>
+  
 <br>
 <br>
 <br>
