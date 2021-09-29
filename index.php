@@ -64,7 +64,9 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-<h2 class="text-primary">Services available from Morning 7:00am to Evening 7:00pm</h2>
+<div class="alert alert-primary" role="alert">
+  Services wll be available from Morning 7:00am to Evening 7:00pm
+</div>
 <br>
 <br>
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
