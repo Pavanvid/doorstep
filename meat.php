@@ -1,12 +1,14 @@
 <?php
-    $title ="Groceries";
+    $title ="Meat";
     include 'Includes/header.php';
     include 'Database/connection.php';
 ?>
 
-
+    <h1 class="text-center"> Welcome To The Grocery Shop </h1>
+    <form method="post" action="aftrsubmit.php">
 
 </div>
+<div class ="container">
         <div class="form-group">
             <label for="Full Name">Name</label>
             <input required type="text" class="form-control" id="exampleInputName" placeholder="Full Name" name="FullName">
@@ -21,6 +23,7 @@
         <div class="form-group"></div>
         <label for ="exampleInputNumber">Contact Number</label>
         <input required type="Contact Number" class="form-control" id="exampleInputPassword" placeholder="Contact Number" name="ContactNo">
+    </div>
     </div>
     <div class="container">
     <div class="mb-3">
