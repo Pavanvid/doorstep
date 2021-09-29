@@ -25,7 +25,7 @@
         }
         public function customers(){
             try{
-            $sql = "SELECT * FROM `door_step`";
+            $sql = "SELECT * FROM `door_step_meat`";
             $result = $this->db->query($sql);
             return $result;
         }
@@ -37,7 +37,7 @@
 
         public function customer_details($id){
         try{
-            $sql = "select * from door_step where Door-step_id = id";
+            $sql = "select * from door_step_meat where Door-step_id = id";
             $stmt = $this->db->prepare($sql);
             $stmt->bindparam(':id',$id);
             //$stmt->execute();
