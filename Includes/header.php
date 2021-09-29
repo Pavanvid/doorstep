@@ -22,11 +22,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       
-      <div class="navbar-nav ml-auto">
-          <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
-          <a class="nav-link active" aria-current="page" href ="#">About The Site</a>
-
-      </div>
+      
     </div>
   </div>
 </div>
