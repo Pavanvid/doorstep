@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="groceries1" class="d-block w-100" alt="..." >
+      <img src="groceries1.png" class="d-block w-100" alt="..." >
       <div class="carousel-caption d-none d-md-block">
         <h5>Meat</h5>
         <p>Order The Meat Carefully...</p>
