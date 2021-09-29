@@ -45,12 +45,12 @@
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
     </form>
+    <form method="get" action="meat.php">
+    <button type="Submit" name="submit" class="btn btn-primary" type="button">MEAT</button>
+    </form>
     <br>
     <br>
     <form>
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">Medicine</button> 
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">LPG_GAS</button>
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">Foot_Wear</button>
     </form>
     
     <br>
