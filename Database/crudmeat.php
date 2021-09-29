@@ -14,7 +14,7 @@
                 $stmt->bindparam(':email',$email);
                 $stmt->bindparam(':contact',$contact);
                 $stmt->bindparam(':addres',$addres);
-                $stmt->bindparam(':grocery',$Meats);
+                $stmt->bindparam(':Meats',$Meats);
                
                 $stmt->execute();
                 return true;
