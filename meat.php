@@ -7,7 +7,7 @@
     <h1 class="text-center"> Welcome To The Meat Shop </h1>
     <form method="post" action="Meatsubmit.php">
 
-
+</div>
 <div class ="container">
 <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Meat Do you want:</label>
