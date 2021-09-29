@@ -1,7 +1,7 @@
 <?php
     $title ="Meat";
     include 'Includes/header.php';
-    include 'Database/connection.php';
+    include 'Database/connmeat.php';
 ?>
 
     <h1 class="text-center"> Welcome To The Meat Shop </h1>

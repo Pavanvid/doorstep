@@ -1,7 +1,7 @@
 <?php
     $title ="submitted";
     include 'Includes/header.php';
-    include 'Database/connection.php';
+    include 'Database/connmeat.php';
     if(isset($_POST['submit'])){  //does it exist
         //extract values from the $_POST array
         //$require = $_POST['required'];
@@ -12,7 +12,7 @@
         $Meats =$_POST['Meat'];
         $MeatArray = explode(" ", $Meat);
         // calling the func  to insert and track if success or not
-        $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$Meats);
+        $issuccess = $crudmeat->insertcustomers($fname,$email,$contact,$addres,$Meats);
 
         if($issuccess){
             //echo '<h1 class="text-center text-success">You order is done!!Thank You :)';
