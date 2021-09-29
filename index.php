@@ -21,8 +21,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="contactus">Contact Us</a>
-        <a class="nav-link" href="aboutus.php">About Us</a>
+        <a class="nav-link active" aria-current="page" href="contactus.php">Contact Us</a>
+        <a class="nav-link" href="aboutsite.php">About Us</a>
       </div>
     </div>
   </div>
