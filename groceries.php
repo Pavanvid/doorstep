@@ -11,6 +11,8 @@
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
         name="grocery_items"></textarea>
     </div>
+
+
         <div class="form-group">
             <label for="Full Name">Name</label>
             <input required type="text" class="form-control" id="exampleInputName" placeholder="Full Name" name="FullName">
