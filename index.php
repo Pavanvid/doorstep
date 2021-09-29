@@ -76,9 +76,6 @@
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
     </form>
-    <form method="get" action="meat.php">
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">Meat</button>
-    </form>
      <br>
     <br>
     
