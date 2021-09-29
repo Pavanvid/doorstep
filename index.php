@@ -29,7 +29,7 @@
     </div>
   </div>
 </nav>
-<img src="delivery.jpg" class="rounded mx-auto d-block" alt="...">
+<img src="delivery.jpg" class="rounded mx-auto d-block w-100" alt="...">
 <div class="container">
 <br>
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
