@@ -14,7 +14,7 @@
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
 </div>
 <br>
-<marquee>This is an example of Marquee</marquee>
+<marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
