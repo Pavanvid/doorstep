@@ -36,7 +36,7 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="C:\Users\pavan\OneDrive\Desktop\groceries.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>GROCERIES</h5>
         <p>Order your items carefully...</p>
