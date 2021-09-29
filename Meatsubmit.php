@@ -46,7 +46,7 @@
     <p class="card-text">
         <?php     
         echo '<hr/>';
-        foreach ($meatArray as $item){
+        foreach ($MeatArray as $item){
             echo $item . "<br>";
             }
         echo "<br>";
