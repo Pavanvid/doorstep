@@ -67,7 +67,7 @@
 </div>
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
     <br>
-    <select class="form-select" aria-label="Default select example">
+    <select required class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
         <option value="2">UDAYAGIRI</option>
