@@ -11,9 +11,10 @@ echo "DOOR-STEP DELIVER" ;
 echo '<br/>';
 echo '<hr/>';
 ?>
-<p class="lh-1">Present , We are in the era where everything will get within hours , Everything is under control online services.
-    we are living in villages having lots of works like farming , daily works etc.We didn't have time to towns and buy the things.
-    We are here to provide everything what you need in the means of Groceries , Meat , Medicines and someother things what you need.
+<p class="lh-1">Present , We are in the era where everything will get within hours , Everything is under control of online services.
+    we are living in the villages having lots of works like farming , daily works etc.We didn't have time to go towns and buy the things.
+    We are here to provide everything what you need in the means of Groceries.
+
 </p>
 
 
