@@ -10,7 +10,7 @@
         $contact = $_POST['ContactNo'];
         $addres = $_POST['address'];
         $Meats =$_POST['Meat'];
-        $MeatArray = explode(" ", $Meat);
+        $MeatArray = explode(" ", $Meats);
         // calling the func  to insert and track if success or not
         $issuccess = $crudmeat->insertcustomers($fname,$email,$contact,$addres,$Meats);
 

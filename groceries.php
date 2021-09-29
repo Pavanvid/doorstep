@@ -5,6 +5,7 @@
 ?>
     <h1 class="text-center"> Welcome To The Grocery Shop </h1>
     <form method="post" action="aftrsubmit.php">
+    
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Which Items you need from the Grocery shop</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter the items with quantity you required" 
