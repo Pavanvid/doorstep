@@ -80,12 +80,13 @@
         <div class="form-group"></div>
         <label for ="exampleInputpin">PINCODE</label>
         <input required type="PIN NUMBER" class="form-control" id="exampleInputPassword" placeholder="Pin Number">
+        <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
     </div>
     
         
     </div>
     <br>
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
+    
 
     <select class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
