@@ -10,7 +10,7 @@
         
         echo '<hr/>';
         echo '<br/>';
-        echo "please Contact this number:";
+        echo "Please Contact this number:";
         echo '<br/>';
         echo "XXXXXXXXXX";
 ?>
