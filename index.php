@@ -81,7 +81,7 @@
     </select>
     <br>
     <form method="get" action="groceries.php">
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
+    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సరుకులు)</button>
     </form>
     <br>
   
