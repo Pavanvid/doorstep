@@ -9,12 +9,11 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
-<br>
 <div class = "container">
 <br>
-
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
 </div>
+<br>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -71,7 +70,7 @@
   </button>
 </div>
 <div class="alert alert-primary" role="alert">
-  Services wll be available from Morning 7:00am to Evening 7:00pm
+  Services will be available from Morning 7:00am to Evening 7:00pm
 </div>
 
     <br>
