@@ -17,7 +17,7 @@
 
         if($issuccess){
             //echo '<h1 class="text-center text-success">You order is done!!Thank You :)';
-            include 'Includes/success.php';
+            include 'Includes/sucess.php';
         }
         else{
             //echo '<h1 class="text-center text-danger">Your order has not done yet , please check again)';
