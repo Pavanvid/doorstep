@@ -9,7 +9,14 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
-  
+
+  <style>
+    .carousel-inner{
+    // height: 300px;
+    }
+  </style>
+
+
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -36,21 +43,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="groceries2.png" class="d-block w-30" alt="...">
+      <img src="groceries2.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>GROCERIES</h5>
         <p>Order your items carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="meat.png" class="d-block w-30" alt="..." >
+      <img src="meat.png" class="d-block w-100" alt="..." >
       <div class="carousel-caption d-none d-md-block">
         <h5>Meat</h5>
         <p>Order The Meat Carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="medicines.png" class="d-block w-30" alt="...">
+      <img src="medicines.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>MEDICINE</h5>
         <p>Order the medicine carefully...</p>
