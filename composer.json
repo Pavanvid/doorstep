@@ -2,6 +2,7 @@
     "name": "pavan/pavan",
     "description": "My first Project",
     "type": "project",
-    "require": {}
+    "require": {
+        "sendgrid/sendgrid": "^7.9"
+    }
 }
-
