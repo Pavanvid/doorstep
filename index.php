@@ -36,21 +36,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="groceries.png" class="d-block w-100" alt="..." style="width:30%px;height:768px">
+      <img src="groceries.png" class="d-block w-100" alt="..." style="width:30%px;height:500px">
       <div class="carousel-caption d-none d-md-block">
         <h5>GROCERIES</h5>
         <p>Order your items carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="groceries.png" class="d-block w-100" alt="..." style="width:30%;height:768px">
+      <img src="groceries.png" class="d-block w-100" alt="..." style="width:30%;height:500px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Meat</h5>
         <p>Order The Meat Carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="Medicine.png" class="d-block w-100" alt="..." style="width:30%;height:768px">
+      <img src="Medicine.png" class="d-block w-100" alt="..." style="width:30%;height:500px">
       <div class="carousel-caption d-none d-md-block">
         <h5>MEDICINE</h5>
         <p>Order the medicine carefully...</p>
