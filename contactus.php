@@ -12,7 +12,7 @@
         echo '<br/>';
         echo "Please Contact this number:";
         echo '<br/>';
-        echo "XXXXXXXXXX";
+        echo "8099297100";
 ?>
 
 <?php include 'Includes/footer.php' ?>
