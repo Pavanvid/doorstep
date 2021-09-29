@@ -1,6 +1,6 @@
 <?php
     // crud -- create,read,unedrstand,delete...using classes oops
-    class crud{
+    class crudmeat{
         private $db;
         function __construct($conn){
             $this->db = $conn;

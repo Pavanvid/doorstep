@@ -25,5 +25,5 @@
 
         }
         require_once 'crudmeat.php';
-        $crud = new crud($pdo);
+        $crud = new crudmeat($pdo);
 ?>
