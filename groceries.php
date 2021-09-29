@@ -33,7 +33,7 @@
         <small id="Address_validation" class="form-text text-muted">Please mention your pincode</small>
     </div>
     
-        <button type="Submit" name="submit" class="btn btn-info" type="button">Submit</button>
+        <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
         
         </div>
     </form>
