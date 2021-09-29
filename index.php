@@ -73,12 +73,6 @@
 
     <h1 class="text-center">DOOR STEP DELIVERY</h1>
     <br>
-
-
-
- 
-    
-<div class="container">
     <select class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
@@ -88,8 +82,8 @@
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సామాగ్రి)</button>
     </form>
-    </div>   
 
+    
    
     <br>
     <br>
