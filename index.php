@@ -9,6 +9,11 @@
     <link rel = "stylesheet" href="css/site.css">
   <title>Door-Step DELIVERY</title>
   </head>
+<div class = "container">
+<br>
+<br>
+<h1 class="text-center">DOOR STEP DELIVERY</h1>
+</div>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -67,9 +72,7 @@
 <div class="alert alert-primary" role="alert">
   Services wll be available from Morning 7:00am to Evening 7:00pm
 </div>
-<br>
-<br>
-<h1 class="text-center">DOOR STEP DELIVERY</h1>
+
     <br>
     <select  class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
