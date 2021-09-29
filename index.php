@@ -41,22 +41,22 @@
     <div class="carousel-item active">
       <img src="groceries2.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5 class="text-info">GROCERIES</h5>
-        <p class="text-danger">Order your items carefully...</p>
+        <h5>GROCERIES</h5>
+        <p>Order your items carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="meat.png" class="d-block w-100" alt="..." >
       <div class="carousel-caption d-none d-md-block">
-        <h5 class="text-info">Meat</h5>
-        <p class="text-danger">Order The Meat Carefully...</p>
+        <h5>Meat</h5>
+        <p>Order The Meat Carefully...</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="medicines.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5 class="text-info">MEDICINE</h5>
-        <p class="text-danger">Order the medicine carefully...</p>
+        <h5>MEDICINE</h5>
+        <p>Order the medicine carefully...</p>
       </div>
     </div>
   </div>
@@ -69,6 +69,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<br>
 <div class="alert alert-primary" role="alert">
   Services will be available from Morning 7:00am to Evening 7:00pm
 </div>
