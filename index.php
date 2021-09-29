@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="Medicines.png" class="d-block w-100" alt="...">
+      <img src="medicines.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>MEDICINE</h5>
         <p>Order the medicine carefully...</p>
