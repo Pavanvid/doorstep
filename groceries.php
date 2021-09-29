@@ -3,6 +3,7 @@
     include 'Includes/header.php';
     include 'Database/connection.php';
 ?>
+<div>
     <h1 class="text-center"> Welcome To The Grocery Shop </h1>
     <form method="post" action="aftrsubmit.php">
 </div>  
