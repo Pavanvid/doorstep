@@ -1,5 +1,5 @@
 <?php
-  include 'Include/session.php'
+  include 'Includes/session.php'
  ?>
 <!doctype html>
 <html lang="en">
@@ -24,8 +24,6 @@
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href ="#">About The Site</a>
       </li>
       </ul>
