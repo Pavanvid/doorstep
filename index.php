@@ -67,14 +67,14 @@
 </div>
 <h1 class="text-center">DOOR STEP DELIVERY</h1>
     <br>
-    <input required select  class="form-select" aria-label="Default select example">
+    <select  class="form-select" aria-label="Default select example">
         <option selected>From where you need items</option>
         <option value="1">SEETHARAMAPURAM</option>
         <option value="2">UDAYAGIRI</option>
     </select>
     <br>
     <form method="get" action="groceries.php">
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES</button>
+    <button type="Submit" name="submit" class="btn btn-info" type="button">GROCERIES</button>
     </form>
      <br>
     <br>
