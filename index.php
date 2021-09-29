@@ -80,9 +80,9 @@
         <div class="form-group"></div>
         <label for ="exampleInputpin">PINCODE</label>
         <input required type="PIN NUMBER" class="form-control" id="exampleInputPassword" placeholder="Pin Number">
-        <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
+        
     </div>
-    
+    <button type="Submit" name="submit" class="btn btn-primary" type="button">Submit</button>
         
     </div>
     <br>
