@@ -89,6 +89,8 @@
   
 <br>
 <br>
+<img src="delivery.jpg" class="rounded float-start" alt="...">
+<img src="delivery.jpg" class="rounded float-end" alt="...">
 <br>
 <div id="footer">   
     <?php 
