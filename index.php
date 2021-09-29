@@ -75,10 +75,8 @@
     <br>
 
 
- </div>
+
  
-    </div>
-    <br>
     
 
     <select class="form-select" aria-label="Default select example">
