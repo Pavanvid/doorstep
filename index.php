@@ -78,11 +78,6 @@
 </div>
 
     <br>
-    <select  class="form-select" aria-label="Default select example">
-        <option selected>From where you need items</option>
-        <option value="1">SEETHARAMAPURAM</option>
-        <option value="2">UDAYAGIRI</option>
-    </select>
     <br>
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సరుకులు)</button>
