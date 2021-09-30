@@ -6,7 +6,7 @@
 
 <h1 class="text-center"> Welcome To The Grocery Shop  </h1>
 <marquee class='text-danger'>మీ ప్రతి ఆర్డర్ కి 40 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది మరియు
-ఉదయగిరి మరియు సీతారామపురం లోకల్ వాళ్లకి 20 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.
+ఉదయగిరి లేద సీతారామపురం లోకల్ వాళ్లకి 20 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.
 </marquee>
     <form method="post" action="aftrsubmit.php">  
     <div class="mb-3" >
