@@ -9,8 +9,9 @@
         $email = $_POST['Email'];
         $contact = $_POST['ContactNo'];
         $addres = $_POST['address'];
-        $grocery =$_POST['grocery_items'];
-        $groceryArray = explode(" ", $grocery);
+        $foodItems =$_POST['foodItems'];
+        $foodArray = explode(" ", $foodItems);
+
 
         // calling the func  to insert and track if success or not
         $issuccess = $foodcrud->insertcustomers($fname,$email,$contact,$addres,$grocery);
@@ -48,7 +49,7 @@
     <p class="card-text">
         <?php     
         echo '<hr/>';
-        foreach ($groceryArray as $item){
+        foreach ($foodArray as $item){
             echo $item . "<br>";
             }
         echo "<br>";
