@@ -11,7 +11,7 @@
   </head>
 <div class = "container">
 <br>
-<img src="logo.png" style="width:80%;" alt="logo" class="rounded mx-auto d-block">
+<img src="logo2.png" style="width:80%;" alt="logo" class="rounded mx-auto d-block">
 </div>
 <br>
 <marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
