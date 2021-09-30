@@ -9,13 +9,11 @@
         $email = $_POST['Email'];
         $contact = $_POST['ContactNo'];
         $addres = $_POST['address'];
-        $nonveg =$_POST['nonvegitems'];
-        $veg =$_POST['vegitems'];
-        $nonvegArray = explode(" ", $nonveg);
-        $vegArray = explode(" ", $veg);
+        $grocery =$_POST['grocery_items'];
+        $groceryArray = explode(" ", $grocery);
 
         // calling the func  to insert and track if success or not
-        $issuccess = $crud->insertcustomers($fname,$email,$contact,$addres,$grocery);
+        $issuccess = $foodcrud->insertcustomers($fname,$email,$contact,$addres,$grocery);
 
         if($issuccess){
             //echo '<h1 class="text-center text-success">You order is done!!Thank You :)';
@@ -31,7 +29,7 @@
 <div class="card" style="width: 20rem;">
     <div class="card-body">
     <h5 class="card-title">
-        <?php echo "Groceries And Your Details:" ?>
+        <?php echo "FOOD DETAILS:" ?>
     </h5>
     <h6 class="card-subtitle mb-2 text-muted">
         <?php  echo $_POST['FullName']; ?>
