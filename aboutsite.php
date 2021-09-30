@@ -17,5 +17,4 @@ echo '<hr/>';
 
 </p>
 
-
 <?php include 'Includes/footer.php' ?>
