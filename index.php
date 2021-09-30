@@ -94,7 +94,7 @@
 <br> <h5 class='text-secondary'>Mobile No : 8897006937</h5>
 <br>
 <div id="footer">  
-  <img src = "pavan.jpg" style=width:30px> 
+   
     <?php 
     echo '<hr/>';
     echo '<br>';
