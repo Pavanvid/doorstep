@@ -19,10 +19,10 @@
   <tbody>
     <tr>
       <td>CHICKEN BIRYANI</td>
-      <td>MUTTON BIRYANI</td>
+      <td>RICE_FULL PARCEL</td>
     </tr>
     <tr>
-      <td>RICE-FULL PARCEL</td>
+      <td>MUTTON BIRYANI</td>
       <td>CURD RICE</td>
     </tr>
   </tbody>
