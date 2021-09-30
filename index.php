@@ -14,24 +14,26 @@
 <img src="logo2.png" style="width:80%;" alt="logo" class="rounded mx-auto d-block">
 </div>
 <br>
-<marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
+
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">HOME</a>
+    <div style='text-align:center;'>
+    <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="contactus.php">Contact Us</a>
+        <a class="nav-link "  href="contactus.php">Contact Us</a>
         <a class="nav-link" href="aboutsite.php">About Us</a>
       </div>
     </div>
+    </div>
   </div>
 </nav>
-
+<marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
 <div class="container">
 <br>
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
@@ -78,7 +80,7 @@
 </div>
 
     <br>
-    <h5 class="text">Please click on the Groceries</h5>
+    <h5 class="text">Please click on Groceries button</h5>
     <br>
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సరుకులు)</button>
