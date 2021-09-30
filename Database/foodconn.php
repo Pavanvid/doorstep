@@ -24,6 +24,6 @@
             throw new PDOException($e->getMessage());
 
         }
-        require_once 'crud.php';
-        $crud = new crud($pdo);
+        require_once 'foodcrud.php';
+        $foodcrud = new foodcrud($pdo);
 ?>
