@@ -85,6 +85,10 @@
     <button type="Submit" name="submit" class="btn btn-info" type="button">GROCERIES(కిరాణా సరుకులు)</button>
     </form>
     <br>
+    <br>
+    <form method="get" action="food.php">
+    <button type="Submit" name="submit" class="btn btn-info" type="button">FOOD</button>
+    </form>
   
 <br>
 <br>
