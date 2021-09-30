@@ -29,19 +29,19 @@
 <br>
     <form method="post" action="foodsubmit.php">  
     <div class="mb-3" >
-        <label for="exampleFormControlTextarea1" class="form-label">Please enter NON-VEG ITEMS here...</label>
+        <label for="exampleFormControlTextarea1" class="form-label">Please enter Food Items here...</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
-        name="nonvegitems"></textarea>
+        name="foodItems"></textarea>
         <small id="emailHelp" class="form-text text-muted">Type in english or telugu</small>
         <br>
     </div>
-    <div class="mb-3" >
+    <!-- <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Please enter VEG ITEMS here...</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
         name="vegitems"></textarea>
         <small id="emailHelp" class="form-text text-muted">Type in english or telugu</small>
         <br>
-    </div>
+    </div> -->
 
 
         <div class="form-group">
