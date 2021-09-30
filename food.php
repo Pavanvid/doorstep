@@ -6,6 +6,15 @@
 
 <h1 class="text-center"> Welcome To The Food Stall  </h1>
 <marquee class='text-danger'>మీ ప్రతి ఆర్డర్ కి 40 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.</marquee>
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Available NoN-VEG</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Food</h6>
+    <p class="card-text">Biryani</p>
+    <p class="card-text">Chicken Dum Biryani</p>
+    <p class="card-text">Mutton Biryani</p>
+  </div>
+</div>
     <form method="post" action="foodsubmit.php">  
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Please enter the Food You need</label>
