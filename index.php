@@ -82,7 +82,7 @@
     <h5 class="text">Please click on Groceries button</h5>
     <br>
     <form method="get" action="groceries.php">
-    <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సరుకులు)</button>
+    <button type="Submit" name="submit" class="btn btn-info" type="button">GROCERIES(కిరాణా సరుకులు)</button>
     </form>
     <br>
   
