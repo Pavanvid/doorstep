@@ -11,7 +11,7 @@
   </head>
 <div class = "container">
 <br>
-<h1 class="text-center">DOOR STEP DELIVERY</h1>
+<img src="logo.png">
 </div>
 <br>
 <marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
