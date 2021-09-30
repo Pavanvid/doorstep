@@ -1,7 +1,7 @@
 <?php
     $title ="submitted";
     include 'Includes/header.php';
-    include 'Database/connection.php';
+    include 'Database/foodconn.php';
     if(isset($_POST['submit'])){  //does it exist
         //extract values from the $_POST array
         //$require = $_POST['required'];
