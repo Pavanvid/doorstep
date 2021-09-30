@@ -86,8 +86,8 @@
   
 <br>
 <br>
-<marquee class='text-primary'>ఒకవేళ మీరు ఈ ఆన్లైన్ పద్ధతిలో ఆర్డర్ చేస్కోలేకపోతే ఈ ఫోన్ నంబర్ కి ఫోన్ చేసి మీకు కావాల్సినవి చెప్పండి మేము మీ ఇంటికి తెచ్చి ఇస్తాము.</marquee>
-<br> <marquee class='text-secondary'>Mobile No : 8897006937</marquee>
+<h5 class='text-primary'>ఒకవేళ మీరు ఈ ఆన్లైన్ పద్ధతిలో ఆర్డర్ చేస్కోలేకపోతే ఈ ఫోన్ నంబర్ కి ఫోన్ చేసి మీకు కావాల్సినవి చెప్పండి మేము మీ ఇంటికి తెచ్చి ఇస్తాము.</h5>
+<br> <h5 class='text-secondary'>Mobile No : 8897006937</h5>
 <br>
 <div id="footer">   
     <?php 
