@@ -14,7 +14,7 @@
 
 
         // calling the func  to insert and track if success or not
-        $issuccess = $foodcrud->insertcustomers($fname,$email,$contact,$addres,$grocery);
+        $issuccess = $foodcrud->insertcustomers($fname,$email,$contact,$addres,$foodItems);
 
         if($issuccess){
             //echo '<h1 class="text-center text-success">You order is done!!Thank You :)';
