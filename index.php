@@ -11,7 +11,7 @@
   </head>
 <div class = "container">
 <br>
-<img src="logo.png" style="width:50%;" alt="logo">
+<img src="logo.png" style="width:80%;" alt="logo" class="rounded mx-auto d-block">
 </div>
 <br>
 <marquee class='text-danger'>మీరు ఆర్డర్ చేసే వస్తువులు కనీసం 300 రూపాయులు ఉండాలి.</marquee>
@@ -78,6 +78,7 @@
 </div>
 
     <br>
+    <h5 class="text">Please click on the Groceries</h5>
     <br>
     <form method="get" action="groceries.php">
     <button type="Submit" name="submit" class="btn btn-primary" type="button">GROCERIES(కిరాణా సరుకులు)</button>
