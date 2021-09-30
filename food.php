@@ -15,7 +15,7 @@
     <h6 class="card-text">Mutton Biryani</h6>
   </div>
 </div>
-<div class="card d-block" style="width: 18rem;">
+<div class="card d-flex" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">Available VEG ITEMS</h5>
     <h6 class="card-subtitle mb-2 text-muted">Food</h6>
