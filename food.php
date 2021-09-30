@@ -18,12 +18,10 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
       <td>CHICKEN BIRYANI</td>
       <td>MUTTON BIRYANI</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
       <td>RICE-FULL PARCEL</td>
       <td>CURD RICE</td>
     </tr>
