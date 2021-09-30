@@ -6,7 +6,6 @@
 
 <h1 class="text-center"> Welcome To The Food Stall  </h1>
 <marquee class='text-danger'>మీ ప్రతి ఆర్డర్ కి 40 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.</marquee>
-
 <table class="table">
   <thead>
     <tr>
@@ -27,11 +26,19 @@
     </tr>
   </tbody>
 </table>
+<br>
     <form method="post" action="foodsubmit.php">  
     <div class="mb-3" >
-        <label for="exampleFormControlTextarea1" class="form-label">Please enter the Food You need</label>
+        <label for="exampleFormControlTextarea1" class="form-label">Please enter NON-VEG ITEMS here...</label>
         <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
-        name="grocery_items"></textarea>
+        name="nonvegitems"></textarea>
+        <small id="emailHelp" class="form-text text-muted">Type in english or telugu</small>
+        <br>
+    </div>
+    <div class="mb-3" >
+        <label for="exampleFormControlTextarea1" class="form-label">Please enter VEG ITEMS here...</label>
+        <textarea required class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="ఇక్కడ, దయచేసి మీకు కావలసిన కిరాణా సామాగ్రిని నమోదు చేయండి" 
+        name="vegitems"></textarea>
         <small id="emailHelp" class="form-text text-muted">Type in english or telugu</small>
         <br>
     </div>
