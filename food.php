@@ -6,24 +6,29 @@
 
 <h1 class="text-center"> Welcome To The Food Stall  </h1>
 <marquee class='text-danger'>మీ ప్రతి ఆర్డర్ కి 40 రూపాయలు మాత్రమే సర్వీస్ చార్జ్ పడుతుంది.</marquee>
-<div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Available NoN-VEG ITEMS</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Food</h6>
-    <h6 class="card-text">Biryani</h6>
-    <h6 class="card-text">Chicken Dum Biryani</h6>
-    <h6 class="card-text">Mutton Biryani</h6>
-  </div>
-</div>
-<div class="card d-flex" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Available VEG ITEMS</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Food</h6>
-    <h6 class="card-text">Curd Rice</h6>
-    <h6 class="card-text">Rice</h6>
-    <h6 class="card-text">Curries</h6>
-  </div>
-</div>
+
+<table class="table">
+  <thead>
+    <tr>
+    
+      <th scope="col">NON_VEG ITEMS</th>
+      <th scope="col">VEG ITEMS</th>
+      >
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>CHICKEN BIRYANI</td>
+      <td>MUTTON BIRYANI</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>RICE-FULL PARCEL</td>
+      <td>CURD RICE</td>
+    </tr>
+  </tbody>
+</table>
     <form method="post" action="foodsubmit.php">  
     <div class="mb-3" >
         <label for="exampleFormControlTextarea1" class="form-label">Please enter the Food You need</label>
